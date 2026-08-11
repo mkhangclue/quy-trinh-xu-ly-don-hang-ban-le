@@ -24,7 +24,7 @@ Quy trình bao gồm các giai đoạn chính:
 6. Xử lý giao hàng thất bại và gửi lại hàng.
 7. Xử lý khiếu nại về hàng hóa.
 8. Kết thúc quy trình khi đơn hàng được giao thành công hoặc khiếu nại được xử lý hoàn tất.
-9. ## 4. Các bên tham gia
+## 4. Các bên tham gia
 | Bên tham gia | Vai trò |
 |---|---|
 
