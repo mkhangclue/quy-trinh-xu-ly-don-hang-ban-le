@@ -52,6 +52,7 @@ Các bước chính bao gồm:
 - Microsoft Word
 ## 7. Cấu trúc repository
 
+```text
 quy-trinh-xu-ly-don-hang-ban-le/
 │
 ├── BPMN/
@@ -63,6 +64,7 @@ quy-trinh-xu-ly-don-hang-ban-le/
 │   └── Mô tả Quy trình Xử lý Đơn hàng - Quy trình con.docx
 │
 └── README.md
+```
 ## 8. Tài liệu
 ### BPMN
 
